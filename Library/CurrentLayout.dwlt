@@ -177,8 +177,8 @@ MonoBehaviour:
     y: 0
     width: 294
     height: 534
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -258,7 +258,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 98
+  controlID: 147
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -499,7 +499,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000543d0000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,7 +583,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.06296207, y: 0.0039293226, z: -0.00017445142, w: -0.9980157}
     speed: 2
-    m_Value: {x: -0.0629616, y: 0.0039292932, z: -0.0001744501, w: -0.9980082}
+    m_Value: {x: -0.06296206, y: 0.0039293226, z: -0.00017445142, w: -0.99801564}
   m_Size:
     m_Target: 35.779034
     speed: 2
@@ -671,13 +671,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\toanh\Desktop\CG Project
+  m_LastProjectPath: C:\Users\toanh\Desktop\CG-Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 70290000
     m_LastClickedID: 10608
-    m_ExpandedIDs: 0000000070290000a02a0000462c0000b62d0000da2d0000e62d0000e23200008a360000b2370000d6390000ac3a0000c23b0000de3f0000e03f0000e23f000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000070290000a02a0000482c0000ba2d0000e02d0000ec2d0000ec3200009c360000c4370000e8390000be3a0000d43b00001a4000001c4000001e40000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,7 +705,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000070290000a02a0000462c0000da2d0000e62d0000e23200008a360000b2370000d6390000ac3a0000c23b0000de3f0000e03f0000e23f0000
+    m_ExpandedIDs: 0000000070290000a02a0000482c0000ba2d0000e02d0000ec2d0000ec3200009c360000c4370000e8390000be3a0000d43b00001a4000001c4000001e400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000de07000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
